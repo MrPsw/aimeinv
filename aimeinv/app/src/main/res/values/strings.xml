@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">爱美女</string>
+    <string name="title_activity_draw">DrawActivity</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="shouye">首页</string>
+    <string name="xinggan">性感</string>
+    <string name="qingchun">清纯美女</string>
+    <string name="mingxin">明星写真</string>
+    <string name="xiaohua">美女校花</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="bye_burger_float_behavior">com.wingsofts.byeburgernavigationview.ByeBurgerFloatButtonBehavior</string>
+
+    <string name="bye_burger_bottom_behavior">com.wingsofts.byeburgernavigationview.ByeBurgerBottomBehavior</string>
+    <string name="bye_burger_title_behavior">com.wingsofts.byeburgernavigationview.ByeBurgerTitleBehavior</string>
+</resources>

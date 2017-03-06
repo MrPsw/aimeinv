@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--<item>-->
+        <!--<shape>-->
+           <!--&lt;!&ndash; 底部颜色&ndash;&gt;-->
+            <!--<solid android:color="#FFFFFF"></solid>-->
+            <!--&lt;!&ndash; 显示的位置与宽度&ndash;&gt;-->
+            <!--<padding android:bottom="1px"></padding>-->
+        <!--</shape>-->
+
+    <!--</item>-->
+    <!-- 最上层-->
+    <item >
+        <shape>
+
+            <solid android:color="#FFFFFF"></solid>
+            <corners android:bottomRightRadius="8dp"  android:bottomLeftRadius="8dp"></corners>
+
+        </shape>
+
+    </item>
+
+</layer-list>
